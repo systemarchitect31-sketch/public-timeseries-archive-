@@ -127,15 +127,17 @@
 
 ---
 
+---
+
 ### 🔍 Verified Evidence (검증된 증거)
 
-**1. Google-Recognized Security Flaw (구글 보안팀 검증)**
+#### 1. Google-Recognized Security Flaw (구글 보안팀 검증)
 * 본 로직의 핵심 아이디어는 실리콘밸리 구글 본사 보안팀으로부터 그 중요성을 인정받았습니다.
 * [구글 버그 헌터 배지 확인](./Evidence/google_badge.jpg)
 * [구글 공식 답변 메일 확인](./Evidence/google_email.jpg)
 
-**​2. National Safety Proposal (국가 안전 규격 제언 기록)
-​본 아키텍처는 **국가급 교통 행정 기관(National Transport Authority)**에 'K-말패치' 및 '공공 시계열 인프라'라는 명칭으로 공식 제언되었습니다.
-​행정적 절차와 인적 사항 미기재 등의 이유로 실제 채택에 이르지 못했으나, 이는 시스템이 해결해야 할 **'기술적 공백(Gap)'**을 증명하는 기록입니다.
-​공식 제언 및 피드백 기록 확인
-(./Evidence/gov_record.jpg)
+#### 2. National Safety Proposal (국가 안전 규격 제언 기록)
+* 본 아키텍처는 **국가급 교통 행정 기관(National Transport Authority)**에 'K-말패치' 및 '공공 시계열 인프라'라는 명칭으로 공식 제언되었습니다.
+* 행정적 절차와 인적 사항 미기재 등의 이유로 실제 채택에 이르지 못했으나, 이는 시스템이 해결해야 할 **'기술적 공백(Gap)'**을 증명하는 기록입니다.
+* [공식 제언 및 피드백 기록 확인](./Evidence/gov_record.jpg)
+
