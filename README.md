@@ -134,6 +134,8 @@
 * [구글 버그 헌터 배지 확인](./Evidence/google_badge.jpg)
 * [구글 공식 답변 메일 확인](./Evidence/google_email.jpg)
 
-**2. National Security Proposal (국가 보안 제언 기록)**
-* 대한민국 국토교통부에 'K-말패치'와 '공공 시계열 아카이브'를 제안했으나, 행정적 절차로 인해 무시된 기록입니다.
-* [국토부 제언 및 답변 기록 확인](./Evidence/gov_record.jpg)
+**​2. National Safety Proposal (국가 안전 규격 제언 기록)
+​본 아키텍처는 **국가급 교통 행정 기관(National Transport Authority)**에 'K-말패치' 및 '공공 시계열 인프라'라는 명칭으로 공식 제언되었습니다.
+​행정적 절차와 인적 사항 미기재 등의 이유로 실제 채택에 이르지 못했으나, 이는 시스템이 해결해야 할 **'기술적 공백(Gap)'**을 증명하는 기록입니다.
+​공식 제언 및 피드백 기록 확인
+(./Evidence/gov_record.jpg)
