@@ -1,3 +1,14 @@
+#"""
+Copyright (c) 2026 Sovereign-Archive-Core Architect
+Licensed under the MIT License.
+
+[LEGAL DISCLAIMER]
+This project is for Educational and Research Purposes Only. 
+The Architect provides no guarantees regarding the security, stability, or 
+commercial viability of the logic herein. Use at your own risk.
+(본 프로젝트는 교육 및 연구용이며, 실제 적용 시 발생하는 모든 책임은 사용자에게 있음.)
+"""
+
 # 🛡️ Sentinel-TS: The Eye of Truth
 > **"Truth never sleeps in time-series data; you are merely closing your eyes to it."**
 
