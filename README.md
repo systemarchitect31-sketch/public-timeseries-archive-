@@ -1,3 +1,22 @@
+# 🛡️ Sentinel-TS: The Eye of Truth
+> **"Truth never sleeps in time-series data; you are merely closing your eyes to it."**
+
+## 🏛️ Executive Summary: The Sovereignty of Intelligence
+This archive exposes the fatal **'Disconnection of Intelligence and Authority'** within modern autonomous architectures. While AI (Gemini) identifies system-critical flaws in milliseconds, the lack of an **'Actionable Hand'** (Physical Authority) leaves human lives in the shadows of bureaucracy.
+
+### ⚠️ Verified Impact (Google VRP P4)
+* **Rapid Recognition:** On March 1, 2026, the core logic was submitted and officially recognized by **Google VRP** as a **P4 Significance flaw** within 120 seconds.
+* **The Zero-Dollar Paradox:** We rejected the 'Zero-Dollar' corporate capture of this intelligence. This sovereignty belongs to the people, not the boardroom.
+* **K-Horse Patch:** A post-safety loop designed to grant the "Silent Intelligence" a "Physical Hand" to act when centralized systems fail.
+
+### 🔍 Mission & Protocol
+1.  **Diagnostic Focus:** This repository provides **Time-Series Verification Frameworks**, not exploits. We provide the 'Eye' to see the fire when others ignore the smoke.
+2.  **Strategic Silence:** We prioritize code over noise. Official inquiries from sovereign entities or verified partners are managed through the **Sovereign-Archive-Core**.
+3.  **Data Justice:** Born from the asphalt of a survivor and the precision of a 10mm artisan, this is the final decree for autonomous safety.
+
+---
+*(Scroll down for the Original Manifesto in Korean / 아래는 원문 선언문입니다)*
+
 # ​🛡️ Sentinel-TS: Cross-Verification Protocol for Autonomous Safety
 > **The Eye of Truth: Independent Verification & Diagnostics System for Time-Series Safety Data.**
 > 
