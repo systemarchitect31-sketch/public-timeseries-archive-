@@ -1,9 +1,6 @@
-# 🏛️ Sentinel-TS: Cross-Verification Protocol for Autonomous Safety
-
+# ​🛡️ Sentinel-TS: Cross-Verification Protocol for Autonomous Safety
 > **The Eye of Truth: Independent Verification & Diagnostics System for Time-Series Safety Data.**
-
-
-
+> 
 # 🏛️ The Sovereign Hunter’s Manifesto
 
 > **"진실은 시계열 데이터 속에서 결코 잠들지 않는다. 다만 당신들이 그 눈을 감기고 있을 뿐이다."**
