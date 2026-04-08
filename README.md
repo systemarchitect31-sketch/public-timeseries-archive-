@@ -7,7 +7,15 @@ This project is for Educational and Research Purposes Only.
 The Architect provides no guarantees regarding the security, stability, or 
 commercial viability of the logic herein. Use at your own risk.
 (본 프로젝트는 교육 및 연구용이며, 실제 적용 시 발생하는 모든 책임은 사용자에게 있음.)
+
 """
+![Image](https://github.com/user-attachments/assets/00f5ed35-da61-43fb-9e16-307a623bfc88)
+
+​회색 🩶 (국토부):
+
+​핑크 💖 (GitHub): 
+
+​보라 🟣 (Google): 
 
 # 🛡️ Sentinel-TS: The Eye of Truth
 > **"Truth never sleeps in time-series data; you are merely closing your eyes to it."**
