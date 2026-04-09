@@ -39,9 +39,10 @@ Licensed under the MIT License.
 
 (법은 수정 가능하지만, 시간은 수정 불가능합니다.)
 
-​"I do not follow the shifting ink of men; I follow the unwavering scars of time recorded in data."
+​"I cannot entrust my life to the shifting ink of men; I only follow the unwavering 'Coordinates of Time' recorded in data."
 
-(나는 인간의 변덕스러운 잉크를 따르지 않습니다. 데이터에 기록된, 결코 흔들리지 않는 '시간의 흉터'를 따를 뿐입니다.)
+(나는 인간의 변덕스러운 잉크에 내 인생을 맡길 수 없습니다. 데이터에 기록된, 결코 흔들리지 않는 '시간의 좌표'를 따를 뿐입니다.)
+
 
 ​🛡️ The Inventor’s Decree 
 
