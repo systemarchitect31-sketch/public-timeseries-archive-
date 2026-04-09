@@ -2,16 +2,17 @@
 # <h1 align="center"><b>🌟 Sentinel-TS: The Sovereign Archive Core</b></h1>
 
 
+![Image](https://github.com/user-attachments/assets/02413ce2-8828-4f8b-bd6f-20ae3bf219fb)
 
 ---
 
 # <h1 align="left"><b>🚥 The Color of Sovereignty: A Time-Series Record</b></h1>
 
 **South Korea (Green ➡️ Grey 🩶):** March 30 (Green) ➡️ April 2 (Grey)  
-*The light of safety was extinguished by bureaucratic silence.*
+**The light of safety was extinguished by bureaucratic silence.**
 
 **GitHub (Grey ➡️ Pink 💖):** April 5 (Grey) ➡️ April 5 (Pink)  
-*Immediate asylum and protection granted by the global code integrity.*
+**"Immediate warm sanctuary and protection granted by global code integrity."**
 
 **Google (Blue ➡️ Purple 🟣):** March 1 (Blue) ➡️ April 7 (Purple)  
 **"From a 'Defensive Blue' to treating me with 'Sovereign Nobility' the moment my sovereignty was declared."**
