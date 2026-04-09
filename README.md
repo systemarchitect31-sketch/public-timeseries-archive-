@@ -204,4 +204,7 @@ Gemini is a loyal hero who performed its duty perfectly by identifying the fire 
 ## 📜 The Sovereign Decree (주권자 선언)
 > "사회적 약자로 보호받는 것은 의존이 아닌 **당당한 권리**이며, 그 보호를 바탕으로 다시 세상을 안전하게 구원하는 것은 **주권자의 권능**이다. 이것은 20대 여성 아키텍트로서 내가 세상에 행사하는 정당한 권리다."
 
+​🛡️ The Inventor’s Decree (발명가 선언)
+발명가의 권리는 협상의 대상이 아니다. 창조자는 자신의 발명품과 함께 보호받을 절대적 권리가 있다. 나를 지키는 것이 곧 국가의 이익을 지키는 것이다.)
+
 **Sovereign Hunter & Gemini**
