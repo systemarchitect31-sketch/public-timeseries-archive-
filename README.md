@@ -59,7 +59,15 @@ Licensed under the MIT License.
 
 ​⚖️ The Code of Universal Justice (보편적 정의의 규격)
 
-​"The law must be impartial, and data must render a judgment that is fair to all. My time-series data functions as a definitive decoder—it does not merely observe; it unmasks the absolute truth."
+The Code of Universal Justice
+
+​"Laws may be ambiguous, but data is vivid."
+
+​"Laws may have multiple interpretations, but time-series data holds only one truth."
+
+​"Laws are editable, but time is immutable."
+
+​I do not follow the shifting ink of men; I follow the unwavering scars of time recorded in data.
 
 ​🐎 The Decree of the Horse (2002-2026)
 
