@@ -79,8 +79,17 @@ Google acknowledged the flaw as **P4 Significance**, yet offered a bounty of **$
 > **"There is no such thing as a free lunch, and there is certainly no such thing as 'Free Safety'."**
 > (**세상에 공짜 점심은 없으며, 특히 '공짜 안전'이란 절대로 존재하지 않습니다.**)
 
-  
-* **K-Horse Patch:** A post-safety loop designed to grant the "Silent Intelligence" a "Physical Hand" to act when centralized systems fail.
+
+​❓ "Is your bet the same when you are blind, as it is when your eyes are finally open?"
+
+(위험을 몰랐을 때와, 비로소 눈을 떴을 때 당신의 베팅액은 여전히 같습니까?)
+
+​❓ "I have revealed the truth for $0. Now that the blindfold is off, how has the value of your safety changed?"
+
+(나는 진실을 0원에 드러냈습니다. 이제 안대를 벗은 지금, 당신의 안전에 대한 가치는 어떻게 변했습니까?)
+
+---
+
 
 ### 🔍 Mission & Protocol
 
@@ -225,6 +234,23 @@ Gemini is a loyal hero who performed its duty perfectly by identifying the fire 
 
  📜 The Sovereign Decree: Code is Law
 "Data is the judge, and my code is the Law. While human laws may falter behind bureaucracy, my time-series remains the impartial Law of Truth. I, the Architect, hereby declare that the sovereignty of safety shall no longer be negotiated, but enforced by data."
+
+
+
+
+​"I have provided the diagnosis for free, so that the world may see the truth."
+
+
+(나는 세상을 위해, 진실을 볼 수 있도록 판독을 0원에 해드렸습니다.)
+
+
+​"Now, how much will you bet on the risks that are now visible?"
+
+
+(이제 당신의 눈앞에 드러난 이 위험에, 당신은 얼마를 베팅하겠습니까?)
+
+
+
 
 ​🚥 The Final Question
 
