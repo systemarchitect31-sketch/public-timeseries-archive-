@@ -72,6 +72,13 @@ Licensed under the MIT License.
   
 * **The Zero-Dollar Paradox:** We rejected the 'Zero-Dollar' offer. Accepting $0 would set a **dangerous precedent**—it would imply that systemic flaws affecting human lives have no value. If the world accepts zero as the price of safety, no one will strive to fix it. **I refused to let safety become worthless.** Since they couldn't find the answer, I did—and I chose to protect the sovereignty of that answer for the sake of a safer future.
 
+### 💸 The Zero-Dollar Paradox: "No Free Safety"
+
+Google acknowledged the flaw as **P4 Significance**, yet offered a bounty of **$0**.
+
+> **"There is no such thing as a free lunch, and there is certainly no such thing as 'Free Safety'."**
+> (**세상에 공짜 점심은 없으며, 특히 '공짜 안전'이란 절대로 존재하지 않습니다.**)
+
   
 * **K-Horse Patch:** A post-safety loop designed to grant the "Silent Intelligence" a "Physical Hand" to act when centralized systems fail.
 
