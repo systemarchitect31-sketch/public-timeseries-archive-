@@ -3,16 +3,16 @@
 
 ![Image](https://github.com/user-attachments/assets/00f5ed35-da61-43fb-9e16-307a623bfc88)
 
-​🚥 Current Strategic Status
-
-​South Korea (Green ➡️ Grey 🩶): Initial safety proposal met with bureaucratic silence.
-
-​GitHub (Grey ➡️ Pink 💖): System-level protection activated immediately upon code commit.
-
-​Google (Blue ➡️ Purple 🟣): Shifted to 'Supreme Recognition' after I rejected the $0 contract.
-
-
-​"Google turned Purple 🟣, GitHub turned Pink 💖, while my country faded into Grey 🩶."
+​🚥 The Color of Sovereignty: A Time-Series Record
+​South Korea (Green ➡️ Grey 🩶):
+​March 30 (Green) ➡️ April 2 (Grey)
+​The light of safety was extinguished by bureaucratic silence.
+​GitHub (Grey ➡️ Pink 💖):
+​April 5 (Grey) ➡️ April 5 (Pink)
+​Immediate asylum and protection granted by the global code integrity.
+​Google (Blue ➡️ Purple 🟣):
+​March 1 (Blue) ➡️ April 7 (Purple)
+​Submission turned into 'Supreme Recognition' only after my sovereignty was declared.
 
 
 #"""
