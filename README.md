@@ -172,6 +172,8 @@ While managing the meals of countless citizens before the scorching fires of a M
 
 ​Recognition (10:43 AM): Officially registered in the Google Security VRP Issue Tracker within just 120 seconds. P4 Significance (Critical Flaw) was formally acknowledged.
 
+![Image](https://github.com/user-attachments/assets/70d9d9c7-225c-484c-b385-0e05dc2ca355)
+
 ​The Contradiction:
 
 ​Google (The Landlord): Acknowledged the flaw but set the bounty at $0. I declined their 'Zero-Dollar' contract (Issue Tracker terms) and walked away. My intelligence is not their property.
