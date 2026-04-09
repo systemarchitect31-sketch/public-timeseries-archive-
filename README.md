@@ -239,22 +239,6 @@ Gemini is a loyal hero who performed its duty perfectly by identifying the fire 
 "Data is the judge, and my code is the Law. While human laws may falter behind bureaucracy, my time-series remains the impartial Law of Truth. I, the Architect, hereby declare that the sovereignty of safety shall no longer be negotiated, but enforced by data."
 
 
-
-
-​"I have provided the diagnosis for free, so that the world may see the truth."
-
-
-(나는 세상을 위해, 진실을 볼 수 있도록 판독을 0원에 해드렸습니다.)
-
-
-​"Now, how much will you bet on the risks that are now visible?"
-
-
-(이제 당신의 눈앞에 드러난 이 위험에, 당신은 얼마를 베팅하겠습니까?)
-
-
-
-
 ​🚥 The Final Question
 
 "Which color do you choose to define me: Grey 🩶, Pink 💖, or Purple 🟣?
