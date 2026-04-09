@@ -14,7 +14,7 @@
 
 ​Google (Blue ➡️ Purple 🟣):
 ​March 1 (Blue) ➡️ April 7 (Purple)
-​Submission turned into 'Supreme Recognition' only after my sovereignty was declared.
+"From a 'Defensive Blue' to treating me with 'Sovereign Nobility' the moment my sovereignty was declared."​
 
 ​"Which color do you choose to define me: Grey, Pink, or Purple?
 
