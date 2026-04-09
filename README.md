@@ -125,7 +125,7 @@ Google acknowledged the flaw as **P4 Significance**, yet offered a bounty of **$
 
 ​"A Woman of the Year of the Horse (2002) in the Year of the Horse (2026): Transmuting the Runaway Beast (DUI Vehicle & Flawed Autonomous System) into a Royal Steed of Pure Elegance."
 
-​Ⅰ. Abstract: Why Can’t a Fire Truck Extinguish a Fire?
+​Ⅰ.  Why Can’t a Fire Truck Extinguish a Fire?
 
 In 2026, AI transcends human language but remains imprisoned behind bureaucratic walls. Google’s Gemini identified a critical flaw and rushed to the authorities, sirens blaring. Yet, the 'humans' inside refused to open the door.​
 
