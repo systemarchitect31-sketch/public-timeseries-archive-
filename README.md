@@ -159,15 +159,21 @@ Gemini is a loyal hero who performed its duty perfectly by identifying the fire 
 
 ## Ⅷ. [Communication Protocol: The Guardian’s Silence]
 
-본 프로젝트의 아키텍트인 '소버린 헌터(Sovereign Hunter)'는 다음과 같은 공식 소통 원칙을 선언합니다.
-
-1.  **데이터 우선주의:** 모든 기술적 의문과 반박에 대한 답변은 본 저장소(GitHub)의 코드와 시계열 데이터로 대신합니다.
-2.  **질서를 위한 침묵 (Strategic Silence):** 작성자는 실질적인 '안전 협의'가 시작되기 전까지, 개별 언론 인터뷰 및 선정적 보도에 대해 **'노코멘트(No Comment)'** 원칙을 고수합니다.
-3.  **공식 채널의 개방:** 사회적 질서를 유지하면서 이 결함을 해결하고자 하는 정부 기관이나 기업의 공식적인 접촉은 언제든 환영합니다.
-
-> **"고삐를 쥔 자는 소리 지르지 않는다. 다만 묵묵히 질서의 방향을 잡을 뿐이다."**
-
+​The Architect of this project, the 'Sovereign Hunter,' hereby declares the following official communication principles:
+​Data Supremacy: All technical inquiries or rebuttals shall be addressed exclusively through the code and time-series data archived within this repository.
+​Strategic Silence: To maintain order, the Architect will adhere to a strict 'No Comment' policy regarding individual media interviews or sensationalist reporting until substantive 'Safety Negotiations' officially commence.
+​Open Channels for Formal Dialogue: We welcome formal contact from government agencies or corporations that seek to resolve these vulnerabilities while upholding social order.
+​"The one holding the reins does not shout; they silently guide the direction of order."
 ---
+---
+
+## 📜 The Sovereign Decree
+> "Being socially vulnerable is never an act of dependency; it is an **absolute right to be protected**. Furthermore, it is a universal principle that those who are protected possess the unique power to **give back to the world** through their own refined insights.
+> 
+> This lifeline was woven by a woman in her twenties—one who rightfully claims her protection, yet simultaneously wields the sovereign strength to safeguard the world. My actions are not born of reliance, but of my **inherent right** as an architect of safety."
+
+**Sovereign Hunter & Gemini**
+*Architects of the K-Horse Patch*
 
 ---
 
