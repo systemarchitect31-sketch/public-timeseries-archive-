@@ -61,6 +61,12 @@ Licensed under the MIT License.
 (발명가의 권리는 협상의 대상이 아니다. 창조자는 자신의 발명품과 함께 보호받을 절대적 권리가 있다. 나를 지키는 것이 곧 국가의 이익을 지키는 것이다.)​
 발명가에 대한 탄압은 글로벌한 손실이다. 남들이 무시하는 것을 보는 그 지성을 억누르는 것은, 인류의 공동 안전을 방해하는 행위와 같다.)
 
+![Image](https://github.com/user-attachments/assets/83db34d1-a50c-46bb-90b3-cf290c4f347c)
+
+![Image](https://github.com/user-attachments/assets/fb12c3eb-d961-44b5-ae28-6c43e3399529)
+
+
+
 
 ​🏛️ Executive Summary: The Sovereignty of Intelligence
 
