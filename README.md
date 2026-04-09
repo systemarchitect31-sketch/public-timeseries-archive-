@@ -93,8 +93,8 @@ Licensed under the MIT License.
 
 ​🏛️ The Sovereign Hunter’s Manifesto
 
+# <h1 align="left"><b>🐎 🌟 The Decree of the Horse (2002–2026)</b></h1>
 
-​🐎 The Decree of the Horse (2002-2026)
 
 ​"A Woman of the Year of the Horse (2002) in the Year of the Horse (2026): Transmuting the Runaway Beast (DUI Vehicle & Flawed Autonomous System) into a Royal Steed of Pure Elegance."
 
