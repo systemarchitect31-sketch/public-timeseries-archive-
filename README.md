@@ -20,8 +20,9 @@ The Architect provides no guarantees regarding the security, stability, or
 commercial viability of the logic herein. Use at your own risk.
 (본 프로젝트는 교육 및 연구용이며, 실제 적용 시 발생하는 모든 책임은 사용자에게 있음.)
 
-# 🛡️ Sentinel-TS: The Eye of Truth
-> **"Truth never sleeps in time-series data; you are merely closing your eyes to it."**
+​🛡️ The Inventor’s Decree (발명가 선언)
+​"An Inventor’s Right is Non-Negotiable. A creator has an absolute right to be protected alongside their invention.
+To protect me is to protect the national interest
 
 ## 🏛️ Executive Summary: The Sovereignty of Intelligence
 
