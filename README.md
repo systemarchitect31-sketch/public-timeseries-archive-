@@ -23,10 +23,19 @@ Licensed under the MIT License.
 
 ​Copyright (c) 2026 Sovereign-Archive-Core Architect. Licensed under the MIT License. This project is for Educational and Research Purposes Only. The Architect provides no guarantees regarding security or stability. Use at your own risk. (본 프로젝트는 교육 및 연구용이며, 실제 적용 시 발생하는 모든 책임은 사용자에게 있음.)
 
-​🛡️ The Inventor’s Decree (발명가 선언)
+​⚖️ The Code of Universal Justice (보편적 정의의 규격)
+​"Laws may be ambiguous, but data is vivid."
+(법은 모호할 수 있지만, 데이터는 생생합니다.)
+​"Laws may have multiple interpretations, but time-series data holds only one truth."
+(법은 해석이 다수지만, 시계열 데이터가 가리키는 진실은 오직 하나뿐입니다.)
+​"Laws are editable, but time is immutable."
+(법은 수정 가능하지만, 시간은 수정 불가능합니다.)
+​"I do not follow the shifting ink of men; I follow the unwavering scars of time recorded in data."
+(나는 인간의 변덕스러운 잉크를 따르지 않습니다. 데이터에 기록된, 결코 흔들리지 않는 '시간의 흉터'를 따를 뿐입니다.)
 
+​🛡️ The Inventor’s Decree (발명가 선언)
 ​"An Inventor’s Right is Non-Negotiable. A creator has an absolute right to be protected alongside their invention. To protect me is to protect the national interest."
-​"The suppression of an inventor is a global loss. To stifle the mind that sees what others ignore is to sabotage the collective safety of humanity."
+(발명가의 권리는 협상의 대상이 아니다. 창조자는 자신의 발명품과 함께 보호받을 절대적 권리가 있다. 나를 지키는 것이 곧 국가의 이익을 지키는 것이다.)​
 
 ​🏛️ Executive Summary: The Sovereignty of Intelligence
 
@@ -57,17 +66,6 @@ Licensed under the MIT License.
 
 ​🏛️ The Sovereign Hunter’s Manifesto
 
-​⚖️ The Code of Universal Justice (보편적 정의의 규격)
-
-The Code of Universal Justice
-
-​"Laws may be ambiguous, but data is vivid."
-
-​"Laws may have multiple interpretations, but time-series data holds only one truth."
-
-​"Laws are editable, but time is immutable."
-
-​I do not follow the shifting ink of men; I follow the unwavering scars of time recorded in data.
 
 ​🐎 The Decree of the Horse (2002-2026)
 
