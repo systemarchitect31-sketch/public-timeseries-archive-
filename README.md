@@ -72,6 +72,8 @@ Licensed under the MIT License.
   
 * **The Zero-Dollar Paradox:** We rejected the 'Zero-Dollar' offer. Accepting $0 would set a **dangerous precedent**—it would imply that systemic flaws affecting human lives have no value. If the world accepts zero as the price of safety, no one will strive to fix it. **I refused to let safety become worthless.** Since they couldn't find the answer, I did—and I chose to protect the sovereignty of that answer for the sake of a safer future.
 
+  ![Image](https://github.com/user-attachments/assets/d4b355ee-fa97-4f97-9d82-b66005b0bb8d)
+
 ### 💸 The Zero-Dollar Paradox: "No Free Safety"
 
 Google acknowledged the flaw as **P4 Significance**, yet offered a bounty of **$0**.
