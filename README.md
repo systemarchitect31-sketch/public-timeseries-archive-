@@ -86,7 +86,8 @@ Obtaining a national technical license in cosmetology (nails) as an elementary s
 
 ​Steam from the Kitchen and Intellectual Resilience
 While managing the meals of countless citizens before the scorching fires of a Mara-tang kitchen, I converted 'survival instinct' into 'computational power.' I learned that safety is not a grand slogan but a practical responsibility. Achieving a 720 TOEIC score starting from a baseline of 250 was not mere academic fervor; it was a necessity to prove that I was still 'functioning' within the system's rigid standards.
-​"Some 
+​
+​"Some might call this revenge, but for me, it was 'Data Verification' for survival. In the process of replacing the helplessness of 250 with the certainty of 720, I finally confirmed the operation of my own system."
 
 ​Ⅲ. Proven Attributes: Evidence of an Outlier
 
