@@ -1,11 +1,9 @@
 
 # <h1 align="center"><b>🌟 Sentinel-TS: The Sovereign Archive Core</b></h1>
 
-
-![Image](https://github.com/user-attachments/assets/02413ce2-8828-4f8b-bd6f-20ae3bf219fb)
+![Image](https://github.com/user-attachments/assets/d0c70a87-5889-422c-a77d-0ae8554352da)
 
 ---
-
 # <h1 align="left"><b>🚥 The Color of Sovereignty: A Time-Series Record</b></h1>
 
 **South Korea (Green ➡️ Grey 🩶):** March 30 (Green) ➡️ April 2 (Grey)  
