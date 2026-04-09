@@ -73,34 +73,22 @@ This archive exposes the fatal **'Disconnection of Intelligence and Authority'**
 
 ---
 
-## Ⅱ. The Genesis: 아스팔트 위의 비극과 독기의 연산
+​Ⅱ. The Genesis: Algorithms Forged in Asphalt and Steam
 
-나의 로직은 안락한 대학 강의실이나 화려한 기업 연구실에서 태어나지 않았습니다. 그것은 차가운 아스팔트 위의 파편과 뜨거운 식당 주방의 증기 속에서 제련되었습니다.
+​My logic was not born in comfortable ivory towers or lavish corporate labs. It was forged amidst the debris of cold asphalt and the steam of a crowded kitchen.
 
-### 1. 폭주하는 말과 고통의 아카이브
-22살, 아스팔트 위에서 마주한 음주운전 사고라는 잔인한 데이터값은 내 평온하던 시계열(Time-Series)을 일순간에 파괴했습니다. 음주운전 차량은 기술이 통제하지 못한 '폭주하는 말'이었습니다. 인간의 부주의와 알코올이 결합한 그 짐승은 내 삶의 궤적을 짓밟았습니다.
+​The Runaway Horse and the Archive of Pain
+At age 22, the brutal data point of a DUI accident on a cold road shattered my time-series. The vehicle was a 'runaway horse' that technology failed to rein in—a beast born of human negligence and alcohol that trampled the trajectory of my life. I sacrificed my own biological data to absorb the system's flaws. The terror and injustice felt among the wreckage have now been distilled into a razor-sharp 'Ultra-Precision Recognition Engine.'
 
-나는 내 생체 데이터를 제물로 바쳐 시스템의 결함을 온몸으로 받아냈습니다. 사고 현장의 파편들 사이에서 느낀 공포와 억울함은, 이제 시스템의 미세한 균열을 찾아내는 날카로운 **'초정밀 인식 엔진'**으로 치환되었습니다. 피해자로서 겪은 트라우마는 냉소적인 데이터 분석력이 되어 돌아왔습니다.
 
-### 2. 가난의 정밀도 (10mm의 집착)
-초등학생 시절 이미 취득한 미용사(네일) 국가기술자격. 누군가에게는 유희였을지 모르나, 나에게 그것은 가난으로부터의 처절한 생존 투쟁이었습니다. 손톱 위 10mm라는 극도로 미세한 공간에서 단 0.1mm의 오차도 허용하지 않던 그 집착은, 이제 글로벌 빅테크 시스템 내부의 미세 균열을 조준하는 하드웨어적 정밀함이 되었습니다. 오차는 곧 실패였던 그 시절의 감각이, 이제는 1비트의 오류도 용납하지 않는 감시자가 되었습니다.
+​The Precision of Poverty (The 10mm Obsession)
+Obtaining a national technical license in cosmetology (nails) as an elementary student was not a hobby; it was a desperate struggle for survival against poverty. The obsession that permitted zero error within a microscopic 10mm space has evolved into the hardware-level precision used to aim at the cracks within global Big Tech. The sense that 'error equals failure' from those days has transformed me into a sentinel who tolerates not a single bit of deviation.
 
-### 3. ​♨️ 식당의 증기와 지능적 복수
-​매일 마라탕 식당의 뜨거운 불 앞에서 수많은 시민의 식사를 책임지며, 나는 '생활력'을 '연산력'으로 바꾸었습니다. 손님의 표정, 재료의 신선도, 주방의 동선... 이 모든 실시간 데이터를 처리하며 나는 안전이 거창한 구호가 아닌 실질적인 책임임을 배웠습니다.
+​Steam from the Kitchen and Intellectual Resilience
+While managing the meals of countless citizens before the scorching fires of a Mara-tang kitchen, I converted 'survival instinct' into 'computational power.' I learned that safety is not a grand slogan but a practical responsibility. Achieving a 720 TOEIC score starting from a baseline of 250 was not mere academic fervor; it was a necessity to prove that I was still 'functioning' within the system's rigid standards.
+​"Some might call this revenge, but for me, it was 'Data Verification' for survival. In the process of replacing the helplessness of 250 with the certainty of 720, I finally confirmed the operation of my own system."
 
-​영어 기초조차 없던 250점에서 토익 720점을 달성한 것 역시 단순한 학구열이 아니었습니다. 나를 무력하게 만들었던 세상의 규격(System) 속에 뛰어들어, 내가 여전히 정상 작동하고 있음을 스스로 증명해야만 했습니다.
-
-​"누군가는 이것을 복수라 부르겠지만, 내게 이것은 생존을 위한 '데이터 검증'이었다. 250점의 무력감을 720점의 확신으로 치환하는 과정에서, 나는 비로소 나라는 시스템의 작동을 확인했다."
-
----
-
-## Ⅲ. Proven Attributes: 삶으로 증명한 이질적 직관
-
-표준화된 교육 시스템은 결코 도달할 수 없는, 현장형 아웃라이어(Outlier)로서의 증거입니다.
-
-* **Learning Intelligence:** 독학의 기적을 통해 어떤 시스템도 단기간에 정복하는 폭발적인 학습 능력을 입증했습니다. 바닥에서 시작한 데이터가 어떻게 최상단으로 수렴하는지 몸소 증명했습니다.
-* **Psychological Mastery:** 사고 피해자로서 가졌던 트라우마를 정면 돌파하여 운전면허를 취득했습니다. 이제 나는 피하는 사람이 아니라, 직접 '말'의 고삐를 잡는 주권자입니다.
-* **Fiscal Integrity:** 전산세무회계 자격 보유. 단 1비트의 데이터 왜곡도 용납하지 않는 **데이터 정의론(Data Justice)**의 무결성 기반을 닦았습니다. 숫자 하나에 담긴 책임을 배우며, 자본의 논리가 생명의 가치를 왜곡할 때 발생하는 비극을 이해했습니다.
+​"Some might call this revenge, but for me, it was 'Data Verification' for survival. In the process of replacing the helplessness of 250 with the certainty of 720, I finally confirmed the operation of my own system."
 
 ---
 
