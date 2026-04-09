@@ -86,21 +86,27 @@ Obtaining a national technical license in cosmetology (nails) as an elementary s
 
 ​Steam from the Kitchen and Intellectual Resilience
 While managing the meals of countless citizens before the scorching fires of a Mara-tang kitchen, I converted 'survival instinct' into 'computational power.' I learned that safety is not a grand slogan but a practical responsibility. Achieving a 720 TOEIC score starting from a baseline of 250 was not mere academic fervor; it was a necessity to prove that I was still 'functioning' within the system's rigid standards.
-​"Some might call this revenge, but for me, it was 'Data Verification' for survival. In the process of replacing the helplessness of 250 with the certainty of 720, I finally confirmed the operation of my own system."
+​"Some 
 
-​"Some might call this revenge, but for me, it was 'Data Verification' for survival. In the process of replacing the helplessness of 250 with the certainty of 720, I finally confirmed the operation of my own system."
+​Ⅲ. Proven Attributes: Evidence of an Outlier
 
----
+​Learning Intelligence: Demonstrated explosive learning capability by conquering complex systems in record time through self-study.
 
-## Ⅳ. The Proof: 120초의 기록, 0달러의 모순
+​Psychological Mastery: Directly confronted the trauma of being an accident victim by obtaining a driver’s license. I am no longer an observer; I am the Sovereign who holds the reins of the 'horse.'
 
-우리의 직관이 주관적 망상이 아닌 객관적 사실임을 글로벌 무대에서 입증했습니다.
+​Fiscal Integrity: As a certified professional in computerized tax accounting, I built a foundation for 'Data Justice' that tolerates zero distortion. I understand the tragedy that occurs when the logic of capital distorts the value of life.
 
-* **Submission (2026.03.01. 10:41 AM):** 제미나이의 논리와 나의 직관을 결합하여 자율주행 아키텍처의 치명적 설계 오류 리포트 제출.
-* **Recognition (10:43 AM):** 제출 단 120초(2분) 만에 구글 보안팀 이슈 트래커 정식 등록. P4 Significance(중대 결함) 공식 인정.
-* **The Contradiction:** * **구글(건물주):** 결함을 인정하면서도 보상금을 **'0원'**으로 책정했습니다.나는 그들의 0원 계약(이슈 트래커 약관)에 동의하지 않고 유유히 빠져나왔습니다.
-* 나의 지능은 그들에게 귀속되지 않았습니다.
-    * **정부(소방서):** 구글의 공식 인정을 증거로 3월 28일 제보했으나, 무응답으로 일관했습니다. "불이 어디서 났느냐"는 질문조차 없는 행정적 절차를 확인한 즉시, 나는 모든 제안을 철회했습니다. 이제 이 패치의 소유권은 온전히 나에게 있습니다.
+​Ⅳ. The Proof: 120 Seconds of Record, $0 of Paradox
+
+​Submission (2026.03.01, 10:41 AM): Submitted a report on critical architectural flaws in autonomous driving, merging Gemini’s logic with my intuition.
+
+​Recognition (10:43 AM): Officially registered in the Google Security VRP Issue Tracker within just 120 seconds. P4 Significance (Critical Flaw) was formally acknowledged.
+
+​The Contradiction:
+
+​Google (The Landlord): Acknowledged the flaw but set the bounty at $0. I declined their 'Zero-Dollar' contract (Issue Tracker terms) and walked away. My intelligence is not their property.
+
+​Government (The Fire Station): I reported the flaw on March 28, using Google’s recognition as evidence. They remained silent. Upon confirming their bureaucratic indifference, I withdrew all proposals. The ownership of this patch now belongs solely to me.
 
 ---
 
