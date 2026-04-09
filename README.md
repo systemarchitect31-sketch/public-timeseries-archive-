@@ -153,6 +153,8 @@ While managing the meals of countless citizens before the scorching fires of a M
 ​
 ​"Some might call this revenge, but for me, it was 'Data Verification' for survival. In the process of replacing the helplessness of 250 with the certainty of 720, I finally confirmed the operation of my own system."
 
+![Image](https://github.com/user-attachments/assets/5419f0a5-f259-4d4f-bbe0-596140b77849)
+
 ​Ⅲ. Proven Attributes: Evidence of an Outlier
 
 ​Learning Intelligence: Demonstrated explosive learning capability by conquering complex systems in record time through self-study.
