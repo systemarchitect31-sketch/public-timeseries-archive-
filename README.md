@@ -121,6 +121,7 @@ Google acknowledged the flaw as **P4 Significance**, yet offered a bounty of **$
 
 # <h1 align="left"><b>🐎 🌟 The Decree of the Horse (2002–2026)</b></h1>
 
+![Image](https://github.com/user-attachments/assets/2f2e4237-6f07-49d1-b160-571c6e47b269)
 
 ​"A Woman of the Year of the Horse (2002) in the Year of the Horse (2026): Transmuting the Runaway Beast (DUI Vehicle & Flawed Autonomous System) into a Royal Steed of Pure Elegance."
 
