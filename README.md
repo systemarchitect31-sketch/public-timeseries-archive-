@@ -44,11 +44,13 @@ This archive exposes the fatal **'Disconnection of Intelligence and Authority'**
 > 
 # 🏛️ The Sovereign Hunter’s Manifesto
 
-> **"진실은 시계열 데이터 속에서 결코 잠들지 않는다. 다만 당신들이 그 눈을 감기고 있을 뿐이다."**
+​⚖️ The Code of Universal Justice (보편적 정의의 규격)
+​"The law must be impartial, and data must render a judgment that is fair to all. My time-series data functions as a definitive decoder—it does not merely observe; it unmasks the absolute truth."
 
 ---
 
-### 🐎 02년생 말띠, '강철의 말'에 안전의 고삐를 채우다
+### ​🐎 The Decree of the Horse (2002-2026)
+​"A Woman of the Year of the Horse (2002) in the Year of the Horse (2026): Transmuting the Runaway Beast (DUI Vehicle & Flawed Autonomous System) into a Royal Steed of Pure Elegance."
 
 📜 **Project Status & Decree**
 * **Version:** 1.0.0 (The Final Decree)
