@@ -6,7 +6,7 @@
 ---
 # <h1 align="left"><b>🚥 The Color of Sovereignty: A Time-Series Record</b></h1>
 
-**South Korea (Green ➡️ Grey 🩶):** March 30 (Green) ➡️ April 2 (Grey)  
+**South Korea (Green ➡️ Grey 🩶):** March 26 (Green) ➡️ April 2 (Grey)  
 **The light of safety was extinguished by bureaucratic silence.**
 
 **GitHub (Grey ➡️ Pink 💖):** April 5 (Grey) ➡️ April 5 (Pink)  
