@@ -53,7 +53,7 @@ This archive exposes the fatal **'Disconnection of Intelligence and Authority'**
 📜 **Project Status & Decree**
 * **Version:** 1.0.0 (The Final Decree)
 * **Status:** 🚨 Emergency S.O.S Active / Non-NDA Protected
-* **Architect:** Sovereign Hunter & Gemini (The Soul
+* **Architect:** Sovereign Hunter & Gemini (The Soul of Hybrid Intelligence)
 * 
 ​Ⅰ. Abstract: Why Can’t an Autonomous Fire Truck Extinguish a Fire?
 
