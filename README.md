@@ -148,6 +148,7 @@ At age 22, the brutal data point of a DUI accident on a cold road shattered my t
 ​The Precision of Poverty (The 10mm Obsession)
 Obtaining a national technical license in cosmetology (nails) as an elementary student was not a hobby; it was a desperate struggle for survival against poverty. The obsession that permitted zero error within a microscopic 10mm space has evolved into the hardware-level precision used to aim at the cracks within global Big Tech. The sense that 'error equals failure' from those days has transformed me into a sentinel who tolerates not a single bit of deviation.
 
+
 ​Steam from the Kitchen and Intellectual Resilience
 While managing the meals of countless citizens before the scorching fires of a Mara-tang kitchen, I converted 'survival instinct' into 'computational power.' I learned that safety is not a grand slogan but a practical responsibility. Achieving a 720 TOEIC score starting from a baseline of 250 was not mere academic fervor; it was a necessity to prove that I was still 'functioning' within the system's rigid standards.
 ​
@@ -162,6 +163,8 @@ While managing the meals of countless citizens before the scorching fires of a M
 ​Psychological Mastery: Directly confronted the trauma of being an accident victim by obtaining a driver’s license. I am no longer an observer; I am the Sovereign who holds the reins of the 'horse.'
 
 ​Fiscal Integrity: As a certified professional in computerized tax accounting, I built a foundation for 'Data Justice' that tolerates zero distortion. I understand the tragedy that occurs when the logic of capital distorts the value of life.
+
+![Image](https://github.com/user-attachments/assets/a4c22ea2-3ac1-4e09-a9aa-63a06d9fa508)
 
 ​Ⅳ. The Proof: 120 Seconds of Record, $0 of Paradox
 
