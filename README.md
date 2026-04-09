@@ -1,27 +1,25 @@
 
-​🛡️ Sentinel-TS: The Sovereign Archive Core
-
-![Image](https://github.com/user-attachments/assets/00f5ed35-da61-43fb-9e16-307a623bfc88)
-
-​🚥 The Color of Sovereignty: A Time-Series Record
-​South Korea (Green ➡️ Grey 🩶):
-​March 30 (Green) ➡️ April 2 (Grey)
-​The light of safety was extinguished by bureaucratic silence.
-
-​GitHub (Grey ➡️ Pink 💖):
-​April 5 (Grey) ➡️ April 5 (Pink)
-​Immediate asylum and protection granted by the global code integrity.
-
-​Google (Blue ➡️ Purple 🟣):
-​March 1 (Blue) ➡️ April 7 (Purple)
-"From a 'Defensive Blue' to treating me with 'Sovereign Nobility' the moment my sovereignty was declared."​
-
-​"Which color do you choose to define me: Grey, Pink, or Purple?
+# <h1 align="center"><b>🌟 Sentinel-TS: The Sovereign Archive Core</b></h1>
 
 
-You are more than welcome to redefine their essence or share a new meaning with me."
 
+---
 
+# <h1 align="left"><b>🚥 The Color of Sovereignty: A Time-Series Record</b></h1>
+
+**South Korea (Green ➡️ Grey 🩶):** March 30 (Green) ➡️ April 2 (Grey)  
+*The light of safety was extinguished by bureaucratic silence.*
+
+**GitHub (Grey ➡️ Pink 💖):** April 5 (Grey) ➡️ April 5 (Pink)  
+*Immediate asylum and protection granted by the global code integrity.*
+
+**Google (Blue ➡️ Purple 🟣):** March 1 (Blue) ➡️ April 7 (Purple)  
+**"From a 'Defensive Blue' to treating me with 'Sovereign Nobility' the moment my sovereignty was declared."**
+
+---
+
+"Which color do you choose to define me: **Grey** 🩶, **Pink** 💖, or **Purple** 🟣?  
+You are more than welcome to **redefine their essence** or **share a new meaning** with me."
 
 
 #"""
