@@ -113,15 +113,19 @@ While managing the meals of countless citizens before the scorching fires of a M
 
 ## Ⅴ. Architecture: K-Horse Patch (The Silent Guardian)
 
-본 프로젝트는 단순한 코드 수선이 아닌, 기업의 이윤보다 시민의 생명을 우선하는 **사후 안전 루프(Post-Safety Loop)**입니다.
+This project is not a mere code fix; it is a Post-Safety Loop that prioritizes human life over corporate profit.
 
-🔍 **공공 시계열 아카이브: "진실의 눈(판독)"**
-* **본질:** "이것은 불인가?"라는 질문에 대해, 누구의 허락도 받지 않고 **'YES'**라고 답할 수 있는 객관적 증거의 기록소입니다.
-* **역할:** 제미나이가 울리는 미세한 비명(노이즈)을 시계열 데이터로 시각화하여, 그것이 단순한 오류가 아니라 **'진짜 화마(결함)'**임을 만천하에 증명합니다.
+​🔍 Public Time-Series Archive: "The Eye of Truth" (Detection)
 
-🌊 **K-말패치: "구원의 자동 물대포(The Autonomous Water Cannon)"**
-* **본질:** "불을 끌 권한이 있는가?"라고 묻는 관료제 앞에, **'생존권'**이라는 이름으로 직접 물을 뿌리는 집행관입니다.
-* **역할:** 지능(Gemini)의 판단을 즉각적인 차량 제어 및 안전 루프 강제 전환으로 연결합니다. 소방서 문이 열리길 기다리는 대신, 담장을 넘어서라도 불을 끄는 **실질적이고 무결한 '자동 물대포'**입니다.
+​Essence: A repository of objective evidence that can answer "YES" to the question "Is this a fire?" without seeking anyone's permission.
+
+​Role: It visualizes the screams (noise) of Gemini into time-series data, proving to the world that it is not a mere glitch, but a 'Real Inferno' (Flaw).
+
+​🌊 K-Horse Patch: "The Autonomous Water Cannon" (Remediation)
+
+​Essence: An enforcer acting under the 'Right to Survive' in the face of a bureaucracy that only asks for 'authority.'
+
+​Role: Directly connects Gemini’s judgment to immediate vehicle control and mandatory safety loops. Instead of waiting for the fire station door to open, it is the 'Water Cannon' that scales the wall to extinguish the fire.
 
 ---
 
