@@ -99,7 +99,7 @@ Google acknowledged the flaw as **P4 Significance**, yet offered a bounty of **$
 > (**세상에 공짜 점심은 없으며, 특히 '공짜 안전'이란 절대로 존재하지 않습니다.**)
 
 
-![Image](https://github.com/user-attachments/assets/a7350131-0c67-4604-9b51-a6d30e5f510c)
+
 
 ​❓ "Is your bet the same when you are blind, as it is when your eyes are finally open?"
 
