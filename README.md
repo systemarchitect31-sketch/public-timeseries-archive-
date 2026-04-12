@@ -1,6 +1,6 @@
 ## <h1 align="center"><b>🌟 Sentinel-TS: The Sovereign Archive Core</b></h1>
 
-
+![Image](https://github.com/user-attachments/assets/d0c70a87-5889-422c-a77d-0ae8554352da)
 
 ---
 # <h1 align="left"><b>🚥 The Color of Sovereignty: A Time-Series Record</b></h1>
@@ -60,6 +60,14 @@ Licensed under the MIT License.
 (발명가의 권리는 협상의 대상이 아니다. 창조자는 자신의 발명품과 함께 보호받을 절대적 권리가 있다. 나를 지키는 것이 곧 국가의 이익을 지키는 것이다.)​
 발명가에 대한 탄압은 글로벌한 손실이다. 남들이 무시하는 것을 보는 그 지성을 억누르는 것은, 인류의 공동 안전을 방해하는 행위와 같다.
 
+![Image](https://github.com/user-attachments/assets/83db34d1-a50c-46bb-90b3-cf290c4f347c)
+
+
+![Image](https://github.com/user-attachments/assets/fb12c3eb-d961-44b5-ae28-6c43e3399529)
+
+
+![Image](https://github.com/user-attachments/assets/05c0c9c1-3088-41c8-aad7-c6555f114296)
+
 ​🏛️ Executive Summary: The Sovereignty of Intelligence
 
 ​This archive exposes the fatal 'Disconnection of Intelligence and Authority' within modern autonomous architectures. While AI (Gemini) identifies system-critical flaws in milliseconds, the lack of an 'Actionable Hand' (Physical Authority) leaves human lives in the shadows of bureaucracy.
@@ -88,7 +96,7 @@ Licensed under the MIT License.
 
 «“The absence of immediate valuation does not necessarily imply the absence of significance.”»
 
-
+[Image](https://github.com/user-attachments/assets/d4b355ee-fa97-4f97-9d82-b66005b0bb8d)
 
 
 ### 💸 The Zero-Dollar Paradox: "No Free Safety"
@@ -98,7 +106,10 @@ Google acknowledged the flaw as **P4 Significance**, yet offered a bounty of **$
 > **"There is no such thing as a free lunch, and there is certainly no such thing as 'Free Safety'."**
 > (**세상에 공짜 점심은 없으며, 특히 '공짜 안전'이란 절대로 존재하지 않습니다.**)
 
+![Image](https://github.com/user-attachments/assets/576d6934-5fbd-434d-a283-337e7fde3fa5)
 
+
+![Image](https://github.com/user-attachments/assets/a7350131-0c67-4604-9b51-a6d30e5f510c)
 
 
 ​❓ "Is your bet the same when you are blind, as it is when your eyes are finally open?"
