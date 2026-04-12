@@ -160,7 +160,6 @@ At age 22, the brutal data point of a DUI accident on a cold road shattered my t
 ​The Precision of Poverty (The 10mm Obsession)
 Obtaining a national technical license in cosmetology (nails) as an elementary student was not a hobby; it was a desperate struggle for survival against poverty. The obsession that permitted zero error within a microscopic 10mm space has evolved into the hardware-level precision used to aim at the cracks within global Big Tech. The sense that 'error equals failure' from those days has transformed me into a sentinel who tolerates not a single bit of deviation.
 
-![Image](https://github.com/user-attachments/assets/4ce4a800-0786-4363-9657-42e7b276cfb2)
 
 ​Steam from the Kitchen and Intellectual Resilience
 While managing the meals of countless citizens before the scorching fires of a Mara-tang kitchen, I converted 'survival instinct' into 'computational power.' I learned that safety is not a grand slogan but a practical responsibility. Achieving a 720 TOEIC score starting from a baseline of 250 was not mere academic fervor; it was a necessity to prove that I was still 'functioning' within the system's rigid standards.
