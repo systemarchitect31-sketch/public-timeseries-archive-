@@ -68,6 +68,9 @@ Licensed under the MIT License.
 
 ![Image](https://github.com/user-attachments/assets/05c0c9c1-3088-41c8-aad7-c6555f114296)
 
+<img width="1080" height="818" alt="Screenshot_20260417_225430_Gallery" src="https://github.com/user-attachments/assets/6310fcb9-b789-43e9-80f3-f6944c5e5934" />
+
+
 ​🏛️ Executive Summary: The Sovereignty of Intelligence
 
 ​This archive exposes the fatal 'Disconnection of Intelligence and Authority' within modern autonomous architectures. While AI (Gemini) identifies system-critical flaws in milliseconds, the lack of an 'Actionable Hand' (Physical Authority) leaves human lives in the shadows of bureaucracy.
@@ -95,7 +98,8 @@ Licensed under the MIT License.
 ---
 
 «“The absence of immediate valuation does not necessarily imply the absence of significance.”»
-[Image](https://github.com/user-attachments/assets/d4b355ee-fa97-4f97-9d82-b66005b0bb8d)
+
+<img width="1080" height="1685" alt="Image" src="https://github.com/user-attachments/assets/7cc8851b-45df-4f29-901e-15570af97670" />
 
 
 ### 💸 The Zero-Dollar Paradox: "No Free Safety"
