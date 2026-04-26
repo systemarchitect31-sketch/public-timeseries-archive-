@@ -2,6 +2,8 @@
 
 ![Image](https://github.com/user-attachments/assets/d0c70a87-5889-422c-a77d-0ae8554352da)
 
+<img width="1061" height="950" alt="Screenshot_20260421_151404_NAVER" src="https://github.com/user-attachments/assets/4c643c46-3a25-4564-8d7e-22868e4c4962" />
+
 ---
 # <h1 align="left"><b>🚥 The Color of Sovereignty: A Time-Series Record</b></h1>
 
