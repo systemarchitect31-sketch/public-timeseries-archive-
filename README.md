@@ -68,7 +68,8 @@ Licensed under the MIT License.
 
 ![Image](https://github.com/user-attachments/assets/05c0c9c1-3088-41c8-aad7-c6555f114296)
 
-<img width="1080" height="818" alt="Screenshot_20260417_225430_Gallery" src="https://github.com/user-attachments/assets/6310fcb9-b789-43e9-80f3-f6944c5e5934" />
+<img width="1080" height="1966" alt="Screenshot_20260427_005333_Gallery" src="https://github.com/user-attachments/assets/d71571cb-8023-42ad-b1d9-9226d2f374ec" />
+
 
 
 ​🏛️ Executive Summary: The Sovereignty of Intelligence
