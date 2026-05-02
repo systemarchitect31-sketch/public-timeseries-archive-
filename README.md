@@ -70,8 +70,7 @@ Licensed under the MIT License.
 
 ![Image](https://github.com/user-attachments/assets/83db34d1-a50c-46bb-90b3-cf290c4f347c)
 
-
-![Image](https://github.com/user-attachments/assets/fb12c3eb-d961-44b5-ae28-6c43e3399529)
+<img width="1061" height="1624" alt="Screenshot_20260503_084855_Gallery" src="https://github.com/user-attachments/assets/4bd2e3ec-c8d3-4ee8-a505-b8cc743f99f9" />
 
 
 ![Image](https://github.com/user-attachments/assets/05c0c9c1-3088-41c8-aad7-c6555f114296)
