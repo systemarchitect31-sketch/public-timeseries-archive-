@@ -92,6 +92,8 @@ Licensed under the MIT License.
 
 <img width="1080" height="1596" alt="Screenshot_20260427_012339_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/09a58123-226e-40c9-bfb9-5c8d7a6d2f13" />
 
+<img width="1079" height="1524" alt="Screenshot_20260506_003645_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/f49dae02-0b6c-4d36-9d31-01876a5349cb" />
+
 <img width="1080" height="1412" alt="Screenshot_20260427_011245_Gallery" src="https://github.com/user-attachments/assets/2d8e1adc-d609-480e-806a-032e3cfb6987" />
 
 ​🏛️ Executive Summary: The Sovereignty of Intelligence
