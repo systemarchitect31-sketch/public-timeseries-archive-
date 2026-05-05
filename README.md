@@ -3,6 +3,8 @@
 ![Image](https://github.com/user-attachments/assets/d0c70a87-5889-422c-a77d-0ae8554352da)
 <img width="1061" height="950" alt="Screenshot_20260421_151404_NAVER" src="https://github.com/user-attachments/assets/4c643c46-3a25-4564-8d7e-22868e4c4962" />
 
+<img width="1080" height="937" alt="Screenshot_20260506_012301_NAVER" src="https://github.com/user-attachments/assets/5c5d0bb6-771d-4cbe-8370-d2a24c8ffdd3" />
+
 ---
 # <h1 align="left"><b>🚥 The Color of Sovereignty: A Time-Series Record</b></h1>
 
@@ -60,6 +62,8 @@ Licensed under the MIT License.
 
 (발명가의 권리는 협상의 대상이 아니다. 창조자는 자신의 발명품과 함께 보호받을 절대적 권리가 있다. 나를 지키는 것이 곧 국가의 이익을 지키는 것이다.)​
 발명가에 대한 탄압은 글로벌한 손실이다. 남들이 무시하는 것을 보는 그 지성을 억누르는 것은, 인류의 공동 안전을 방해하는 행위와 같다.
+
+<img width="1080" height="937" alt="Screenshot_20260506_012301_NAVER" src="https://github.com/user-attachments/assets/f67e4fef-9710-4681-9a02-b0ab96003cff" />
 
 <img width="1080" height="1717" alt="Screenshot_20260502_124534_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/b842357f-bdb7-4a44-a35d-dac14e9b947a" />
 
