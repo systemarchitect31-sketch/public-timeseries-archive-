@@ -1,7 +1,6 @@
 ## <h1 align="center"><b>🌟 Sentinel-TS: The Sovereign Archive Core</b></h1>
 
 ![Image](https://github.com/user-attachments/assets/d0c70a87-5889-422c-a77d-0ae8554352da)
-
 <img width="1061" height="950" alt="Screenshot_20260421_151404_NAVER" src="https://github.com/user-attachments/assets/4c643c46-3a25-4564-8d7e-22868e4c4962" />
 
 ---
@@ -73,7 +72,9 @@ Licensed under the MIT License.
 <img width="1061" height="1624" alt="Screenshot_20260503_084855_Gallery" src="https://github.com/user-attachments/assets/4bd2e3ec-c8d3-4ee8-a505-b8cc743f99f9" />
 
 
-![Image](https://github.com/user-attachments/assets/05c0c9c1-3088-41c8-aad7-c6555f114296)
+<img width="1051" height="1634" alt="Screenshot_20260505_235536_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/78d6c001-9cfd-46be-a1aa-18d20bfbce7a" />
+
+
 <img width="1056" height="1560" alt="Screenshot_20260505_234249_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/4b678ece-cf93-42d8-adf5-129b054fe5bd" />
 
 <img width="1080" height="1966" alt="Screenshot_20260427_005333_Gallery" src="https://github.com/user-attachments/assets/d71571cb-8023-42ad-b1d9-9226d2f374ec" />
