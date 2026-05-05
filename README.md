@@ -83,6 +83,7 @@ Licensed under the MIT License.
 <img width="1080" height="1966" alt="Screenshot_20260427_005333_Gallery" src="https://github.com/user-attachments/assets/d71571cb-8023-42ad-b1d9-9226d2f374ec" />
 
 
+<img width="1080" height="1954" alt="Screenshot_20260506_005056_NAVER" src="https://github.com/user-attachments/assets/38b8e8e5-8aba-4c06-b48c-9d80a06c34f2" />
 
 <img width="1080" height="1288" alt="Screenshot_20260427_005040_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/0a09366d-9c82-4f50-b5e5-d9704ced8a31" />
 
