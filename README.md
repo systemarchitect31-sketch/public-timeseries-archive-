@@ -69,6 +69,7 @@ Licensed under the MIT License.
 
 <img width="1059" height="1653" alt="Screenshot_20260506_001149_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/29dd8fb3-af73-462a-925a-90ef4cca7114" />
 
+<img width="1049" height="1680" alt="Screenshot_20260506_002555_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/37c8a2ea-094b-4e9f-8f17-ab6dbcceb31a" />
 
 <img width="1061" height="1624" alt="Screenshot_20260503_084855_Gallery" src="https://github.com/user-attachments/assets/4bd2e3ec-c8d3-4ee8-a505-b8cc743f99f9" />
 
