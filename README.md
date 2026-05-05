@@ -134,6 +134,8 @@ Licensed under the MIT License.
 
 «“The absence of immediate valuation does not necessarily imply the absence of significance.”»
 
+<img width="868" height="316" alt="Screenshot_20260506_004059_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/a8f13842-df85-4ddf-977f-c3f598db677f" />
+
 <img width="1080" height="1685" alt="Image" src="https://github.com/user-attachments/assets/7cc8851b-45df-4f29-901e-15570af97670" />
 
 
