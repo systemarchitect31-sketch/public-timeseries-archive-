@@ -145,6 +145,8 @@ Google acknowledged the flaw as **P4 Significance**, yet offered a bounty of **$
 
 > **"There is no such thing as a free lunch, and there is certainly no such thing as 'Free Safety'."**
 > (**세상에 공짜 점심은 없으며, 특히 '공짜 안전'이란 절대로 존재하지 않습니다.**)
+> 
+<img width="1080" height="300" alt="Screenshot_20260506_123800_Gallery" src="https://github.com/user-attachments/assets/b836580a-79fc-4762-9143-e72616886d1f" />
 
 <img width="1080" height="1133" alt="Screenshot_20260506_033538_Gmail" src="https://github.com/user-attachments/assets/dd22e706-1a0f-4d70-9587-73dc9be0ce21" />
 
