@@ -11,6 +11,12 @@
 
 <img width="1080" height="1940" alt="Screenshot_20260506_154509_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/a66e1d67-163d-486c-ad64-2fae9359a7f9" />
 
+<img width="1079" height="1511" alt="Screenshot_20260506_161139_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/659c81cf-bd63-4e79-8bc6-801045d2d6d0" />
+
+<img width="1080" height="1523" alt="Screenshot_20260506_161021_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/7da62b71-dca1-4b75-bcbc-c619aa1ca32f" />
+
+<img width="1080" height="1572" alt="Screenshot_20260506_160927_NAVER" src="https://github.com/user-attachments/assets/f00e05a6-6065-4082-be52-04b2a2434e65" />
+
 ---
 # <h1 align="left"><b>🚥 The Color of Sovereignty: A Time-Series Record</b></h1>
 
