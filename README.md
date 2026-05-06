@@ -7,6 +7,10 @@
 
 <img width="1080" height="937" alt="Screenshot_20260506_012301_NAVER" src="https://github.com/user-attachments/assets/5c5d0bb6-771d-4cbe-8370-d2a24c8ffdd3" />
 
+<img width="1080" height="1706" alt="Screenshot_20260506_154857_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/a244f813-ee6d-4724-8150-eb948e30ccf0" />
+
+<img width="1080" height="1940" alt="Screenshot_20260506_154509_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/a66e1d67-163d-486c-ad64-2fae9359a7f9" />
+
 ---
 # <h1 align="left"><b>🚥 The Color of Sovereignty: A Time-Series Record</b></h1>
 
