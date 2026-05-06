@@ -3,6 +3,8 @@
 ![Image](https://github.com/user-attachments/assets/d0c70a87-5889-422c-a77d-0ae8554352da)
 <img width="1061" height="950" alt="Screenshot_20260421_151404_NAVER" src="https://github.com/user-attachments/assets/4c643c46-3a25-4564-8d7e-22868e4c4962" />
 
+<img width="1075" height="1791" alt="Screenshot_20260506_132508_NAVER" src="https://github.com/user-attachments/assets/66493fc9-605a-4034-892d-3e459a5732b8" />
+
 <img width="1080" height="937" alt="Screenshot_20260506_012301_NAVER" src="https://github.com/user-attachments/assets/5c5d0bb6-771d-4cbe-8370-d2a24c8ffdd3" />
 
 ---
