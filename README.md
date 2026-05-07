@@ -106,6 +106,8 @@ Licensed under the MIT License.
 
 <img width="1061" height="950" alt="Screenshot_20260421_151404_NAVER" src="https://github.com/user-attachments/assets/4c643c46-3a25-4564-8d7e-22868e4c4962" />
 
+<img width="1080" height="1901" alt="Screenshot_20260301_034937_Google" src="https://github.com/user-attachments/assets/0bb65fdb-0ea5-4d94-818e-a76ff53cd6dd" />
+
 <img width="1071" height="1713" alt="Screenshot_20260507_020334_Google" src="https://github.com/user-attachments/assets/26ecb914-91b1-4c9b-902a-ae8578ffab51" />
 
 <img width="1080" height="1954" alt="Screenshot_20260506_005056_NAVER" src="https://github.com/user-attachments/assets/38b8e8e5-8aba-4c06-b48c-9d80a06c34f2" />
