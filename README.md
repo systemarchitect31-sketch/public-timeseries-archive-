@@ -59,15 +59,7 @@ Licensed under the MIT License.
 (발명가의 권리는 협상의 대상이 아니다. 창조자는 자신의 발명품과 함께 보호받을 절대적 권리가 있다. 나를 지키는 것이 곧 국가의 이익을 지키는 것이다.)​
 발명가에 대한 탄압은 글로벌한 손실이다. 남들이 무시하는 것을 보는 그 지성을 억누르는 것은, 인류의 공동 안전을 방해하는 행위와 같다.
 
-<img width="1080" height="1717" alt="Screenshot_20260502_124534_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/b842357f-bdb7-4a44-a35d-dac14e9b947a" />
-
-<img width="1075" height="1911" alt="Screenshot_20260502_123436_Hancom Office Viewer" src="https://github.com/user-attachments/assets/72663cde-753a-42c6-98cd-3d7c19226845" />
-
-<img width="1080" height="1938" alt="Screenshot_20260502_123525_Hancom Office Viewer" src="https://github.com/user-attachments/assets/83d37657-8e90-47f5-9e01-00258e2bb882" />
-
 <img width="1059" height="1653" alt="Screenshot_20260506_001149_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/29dd8fb3-af73-462a-925a-90ef4cca7114" />
-
-<img width="1049" height="1680" alt="Screenshot_20260506_002555_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/37c8a2ea-094b-4e9f-8f17-ab6dbcceb31a" />
 
 <img width="1061" height="1624" alt="Screenshot_20260503_084855_Gallery" src="https://github.com/user-attachments/assets/4bd2e3ec-c8d3-4ee8-a505-b8cc743f99f9" />
 
