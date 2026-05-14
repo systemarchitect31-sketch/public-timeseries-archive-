@@ -1,26 +1,6 @@
 ## <h1 align="center"><b>🌟 Sentinel-TS: The Sovereign Archive Core</b></h1>
 
 ![Image](https://github.com/user-attachments/assets/d0c70a87-5889-422c-a77d-0ae8554352da)
-
-<img width="1061" height="950" alt="Screenshot_20260421_151404_NAVER" src="https://github.com/user-attachments/assets/4c643c46-3a25-4564-8d7e-22868e4c4962" />
-
-<img width="1075" height="1791" alt="Screenshot_20260506_132508_NAVER" src="https://github.com/user-attachments/assets/66493fc9-605a-4034-892d-3e459a5732b8" />
-
-<img width="1080" height="1753" alt="Screenshot_20260506_195814_NAVER" src="https://github.com/user-attachments/assets/cc7861ae-8a11-4184-b3d2-61973028aa95" />
-<img width="1080" height="937" alt="Screenshot_20260506_012301_NAVER" src="https://github.com/user-attachments/assets/5c5d0bb6-771d-4cbe-8370-d2a24c8ffdd3" />
-
-<img width="1080" height="1706" alt="Screenshot_20260506_154857_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/a244f813-ee6d-4724-8150-eb948e30ccf0" />
-
-<img width="1080" height="1940" alt="Screenshot_20260506_154509_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/a66e1d67-163d-486c-ad64-2fae9359a7f9" />
-
-
-
-<img width="1079" height="1511" alt="Screenshot_20260506_161139_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/659c81cf-bd63-4e79-8bc6-801045d2d6d0" />
-
-<img width="1080" height="1523" alt="Screenshot_20260506_161021_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/7da62b71-dca1-4b75-bcbc-c619aa1ca32f" />
-
-<img width="1080" height="1572" alt="Screenshot_20260506_160927_NAVER" src="https://github.com/user-attachments/assets/f00e05a6-6065-4082-be52-04b2a2434e65" />
-
 ---
 # <h1 align="left"><b>🚥 The Color of Sovereignty: A Time-Series Record</b></h1>
 
@@ -79,8 +59,6 @@ Licensed under the MIT License.
 (발명가의 권리는 협상의 대상이 아니다. 창조자는 자신의 발명품과 함께 보호받을 절대적 권리가 있다. 나를 지키는 것이 곧 국가의 이익을 지키는 것이다.)​
 발명가에 대한 탄압은 글로벌한 손실이다. 남들이 무시하는 것을 보는 그 지성을 억누르는 것은, 인류의 공동 안전을 방해하는 행위와 같다.
 
-<img width="1080" height="937" alt="Screenshot_20260506_012301_NAVER" src="https://github.com/user-attachments/assets/f67e4fef-9710-4681-9a02-b0ab96003cff" />
-
 <img width="1080" height="1717" alt="Screenshot_20260502_124534_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/b842357f-bdb7-4a44-a35d-dac14e9b947a" />
 
 <img width="1075" height="1911" alt="Screenshot_20260502_123436_Hancom Office Viewer" src="https://github.com/user-attachments/assets/72663cde-753a-42c6-98cd-3d7c19226845" />
@@ -102,17 +80,6 @@ Licensed under the MIT License.
 
 <img width="1080" height="1966" alt="Screenshot_20260427_005333_Gallery" src="https://github.com/user-attachments/assets/d71571cb-8023-42ad-b1d9-9226d2f374ec" />
 
-<img width="1080" height="1984" alt="Screenshot_20260507_013139_Gallery" src="https://github.com/user-attachments/assets/98811d5d-576c-4989-ab93-0dfb5d294b77" />
-
-
-<img width="1080" height="1901" alt="Screenshot_20260301_034937_Google" src="https://github.com/user-attachments/assets/0bb65fdb-0ea5-4d94-818e-a76ff53cd6dd" />
-
-<img width="1080" height="1564" alt="Screenshot_20260509_121403_NAVER" src="https://github.com/user-attachments/assets/a99857ec-6c02-4d25-aeca-b04990421783" />
-
-<img width="1071" height="1713" alt="Screenshot_20260507_020334_Google" src="https://github.com/user-attachments/assets/26ecb914-91b1-4c9b-902a-ae8578ffab51" />
-
-<img width="1080" height="1954" alt="Screenshot_20260506_005056_NAVER" src="https://github.com/user-attachments/assets/38b8e8e5-8aba-4c06-b48c-9d80a06c34f2" />
-
 <img width="1080" height="1288" alt="Screenshot_20260427_005040_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/0a09366d-9c82-4f50-b5e5-d9704ced8a31" />
 
 <img width="1080" height="1595" alt="Screenshot_20260427_012323_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/204f4187-2063-49b5-a872-630ea6766c3d" />
@@ -122,8 +89,6 @@ Licensed under the MIT License.
 <img width="1080" height="1596" alt="Screenshot_20260427_012339_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/09a58123-226e-40c9-bfb9-5c8d7a6d2f13" />
 
 <img width="1080" height="1534" alt="Screenshot_20260506_004059_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/d17eab5b-c013-4378-a248-2a3e765885a0" />
-
-
 
 <img width="1079" height="1524" alt="Screenshot_20260506_003645_Hancom Docs (Office)" src="https://github.com/user-attachments/assets/f49dae02-0b6c-4d36-9d31-01876a5349cb" />
 
